@@ -1,2 +1,2 @@
 # ARRAY
-ARRAY and ARRAYS
+ massive == ARRAY and massivmas == ARRAYS
